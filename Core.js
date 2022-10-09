@@ -4916,7 +4916,7 @@ qr, say, translate, fliptext, toletter
 
  🔰 Type " *${prefix}help* " to get full command list.`
  
- Miku.sendMessage(m.chat, {caption:helpmenu},{ quoted:m })
+await Miku.sendMessage(from,{text:helpmenu},{ quoted:m })
 }
  
  break
