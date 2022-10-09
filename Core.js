@@ -4915,7 +4915,10 @@ qr, say, translate, fliptext, toletter
  🔰 To get Support Group link type " *${prefix}support* ".
 
  🔰 Type " *${prefix}help* " to get full command list.`
- }
+ 
+ Miku.sendMessage(m.chat, {caption:helpmenu},{ quoted:m })
+}
+ 
  break
  
  
