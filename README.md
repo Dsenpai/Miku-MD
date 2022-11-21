@@ -1,8 +1,6 @@
-<p align="center">
-   <a href="https://github.com/FantoX001">
-    <img src="https://c.tenor.com/NJVFjOYEcsIAAAAC/miku-gotoubun.gif" width="610">
+ https://user-images.githubusercontent.com/96835724/202911067-fbebff62-1566-4120-bd37-08311166b70b.mp4 
+
      
-</p>
 <h1 align="center"> Miku Nakano (Beta)
 </h1>
 <p align="center"> 
@@ -21,11 +19,21 @@
 <a href="https://github.com/FantoX001">
     <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
   </a>
+  
+  <p align="center">
+  <a href="https://github.com/FantoX001/Miku-MD">
+    <img src="https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Miku-MD.visitor-badge&left_text=Total%20Repo%20Visits">
+    
+    
+<a href="https://github.com/FantoX001">
+    <img src="(https://visitor-badge.glitch.me/badge?page_id=https://github.com/FantoX001/Shikimori-MD.visitor-badge&left_text=Total%20Repo%20Visitors)">
+  </a>
+  
 </br>
       
 </br> 
    
-## ✧✧ Temporarily little bit Maintained for bug fixes. Thank You so much guys for your love and support 💕. 
+### ✧✧ Maintained by [Fantox](https://github.com/FantoX001) for bug fixes and more improments. More features  are coming soon. Check this main repo once in week to stay updated about latest updates.
 </br></br>
   
   
@@ -35,6 +43,7 @@
 -  Change `Bot Prefix` in line no `23` inside global.prefa. [ Put anything you want except @ ] 
 -  Change `Owner Name` in line no `16`
 -  Change `Sticker packname` and `author` in line no `14` and `15`
+-  Using Android ?    [Click to Fork Repo](https://github.com/FantoX001/Miku-MD/fork)
 <br>
 <br>
 
@@ -61,6 +70,7 @@
 <br>
 
 ```
+✧ Added new NSFW commands and fixed old non-working ones type -nsfw to to enable it and -nsfwmenu to get full NSFW command list.
 ✧ Added Forever worker again and removed pm2.
 ✧ Fixed Heroku account ban issue.
 ✧ Added Weather command. [Usage: -weather Kolkata]
@@ -79,6 +89,9 @@
 ```
 
 </details>
+
+<br>
+<br>
 
 ## ✧✧✧ Why use Miku as your Base?
 
