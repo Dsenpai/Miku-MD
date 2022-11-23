@@ -1408,23 +1408,23 @@ return list[Math.floor(list.length * Math.random())]
       reply (`Mention not *${pushname}* 😇. I am a bot afterall.`);
     }      
 
-    if (smallinput.includes==('fuck you') || smallinput.includes==('fuck u')) {
+    if (smallinput.includes('fuck you') || smallinput.includes('fuck u')) {
       reply (`I would, but I have standards`);
      }
 	
-    if (smallinput.includes==('suck a dick') || smallinput.includes==('suck dick')) {
+    if (smallinput.includes('suck a dick') || smallinput.includes('suck dick')) {
       reply (`Sure, as soon as you get it out of your ass`);
      }
 	
-     if (smallinput.includes==('fuck off')) {
+     if (smallinput=='fuck off') {
      reply (`Get on your knees and warm me up first`);
      }
 	
-     if (smallinput.includes==('kill yourself') || smallinput.includes==('go die')){
+     if (smallinput.includes('kill yourself') || smallinput.includes('go die')){
       reply (`nah, I’mma stay alive just because my continued existence bothers you this much`);
       }
 	
-     if (smallinput.includes==('miku bitch') || smallinput.includes==('bitch miku')) {
+     if (smallinput.includes('miku bitch') || smallinput.includes('bitch miku')) {
       reply (`why are you mentioning the name that your EX gave to you,I think you liked it too much`); 
       }
 	     
